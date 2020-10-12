@@ -1,0 +1,14 @@
+Type of error:
+NameError (uninitialized constant DockingStation)
+
+File path where error happened:
+/Users/bhupesh/.rvm/rubies/ruby-2.7.0/lib/ruby/gems/2.7.0/gems/irb-1.2.1/exe/irb:11:in `<top (required)>'
+
+Line number of error:
+11
+
+What the error means in the Ruby Documentation:
+Raised when a given name is invalid or undefined.
+
+Suggest one way of solving the error:
+Define the object.
